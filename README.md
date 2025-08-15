@@ -16,4 +16,4 @@ Keyword Extraction & Frequency Analysis
 
 Word Cloud Visualization for quick, impactful insights
 
-📊 From scattered conversations to a clear picture — turning unstructured text into actionable strategies that support meaningful community engagement.
+📊 From scattered conversations to a clear picture - turning unstructured text into actionable strategies that support meaningful community engagement.
